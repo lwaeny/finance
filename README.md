@@ -8,6 +8,9 @@ Welcome to the "Finance Analytics" repository! Here I share in-depth analyzes ab
 
 ## Contents
 
+- **[Analysis 1: Plano Nova Industria Brasil and the benchmark of companies in the industrial sector on the Brazilian stock exchange](Notebooks/Benchmark_Industrials_2024.ipynb)**  
+An analysis of financial indicators of the main Brazilian industrial companies listed on the stock exchange (B3).
+
 ## Repository Usage Instructions
 
 1. Clone this repository:
